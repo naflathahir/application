@@ -1,0 +1,6 @@
+from turtle import*
+for a in range(4):
+    fd(300)
+    rt(90)
+    dot(10)
+input()
